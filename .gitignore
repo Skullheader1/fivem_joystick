@@ -1,2 +1,4 @@
 joystick_config.json
 joystick.exe
+__pycache__/
+*.pyc
